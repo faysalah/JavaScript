@@ -1,0 +1,1 @@
+console.log(Array.of("faysal",2,false,4,true));
